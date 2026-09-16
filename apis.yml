@@ -23,13 +23,13 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/fortigo.png
 name: Fortigo
-description: 'Fortigo Network Logistics Pvt. Ltd. (4TiGO) was a Bengaluru, India technology-enabled
-  logistics and supply-chain network platform, founded in 2015, operating an online marketplace for
-  freight/truck transportation alongside a Digital Supply Chain Control Tower SaaS. It was backed by
-  Accel and Nandan Nilekani''s NRJN Family Trust, raising roughly $23.5M across five rounds. As of this
-  enrichment pass the company appears deadpooled/defunct: its 4tigo.com site is unreachable (connection
-  refused across all hosts) and no public developer portal, API documentation, or machine-readable API
-  definition could be located. No API artifacts were enriched because there is no live developer surface.'
+description: 'Fortigo Network Logistics Pvt. Ltd. (4TiGO) was a Bengaluru, India technology-enabled logistics
+  and supply-chain network platform, founded in 2015, operating an online marketplace for freight/truck
+  transportation alongside a Digital Supply Chain Control Tower SaaS. It was backed by Accel and Nandan
+  Nilekani''s NRJN Family Trust, raising roughly $23.5M across five rounds. As of this enrichment pass
+  the company appears deadpooled/defunct: its 4tigo.com site is unreachable (connection refused across
+  all hosts) and no public developer portal, API documentation, or machine-readable API definition could
+  be located. No API artifacts were enriched because there is no live developer surface.'
 url: https://raw.githubusercontent.com/api-evangelist/fortigo/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -39,7 +39,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-19'
+modified: '2026-09-15'
 tags:
 - Company
 - Logistics
@@ -48,6 +48,7 @@ tags:
 - Trucking
 - Software-as-a-Service
 - India
+- Defunct
 tags_raw:
 - Company
 - Logistics
@@ -57,7 +58,7 @@ tags_raw:
 - SaaS
 - India
 x-status: defunct
-x-status-evidence: '4tigo.com unreachable (HTTP 000, connection refused) on 2026-07-19; reported deadpooled'
+x-status-evidence: 4tigo.com unreachable (HTTP 000, connection refused) on 2026-07-19; reported deadpooled
 apis: []
 maintainers:
 - FN: Kin Lane
