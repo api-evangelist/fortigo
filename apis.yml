@@ -39,7 +39,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - Logistics
@@ -48,6 +48,7 @@ tags:
 - Trucking
 - Software-as-a-Service
 - India
+- Defunct
 tags_raw:
 - Company
 - Logistics
@@ -56,6 +57,7 @@ tags_raw:
 - Trucking
 - SaaS
 - India
+- Defunct
 x-status: defunct
 x-status-evidence: 4tigo.com unreachable (HTTP 000, connection refused) on 2026-07-19; reported deadpooled
 apis: []
